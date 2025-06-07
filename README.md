@@ -217,7 +217,7 @@ sudo ./easynode_traffic_obfuscation.sh
 | **Traffic correlation** | ⚠️ Timing analysis possible | ✅ Decoy traffic prevents correlation |
 | **Overall stealth** | ⚠️ Partial protection | ✅ Maximum invisibility |
 
-<img src="picture/layer.png" width="450" height="400" alt="Monero EasyNode Logo"><img src="picture/systemd.png" width="450" height="400" alt="Monero EasyNode Logo">
+<img src="picture/layer.png" width="600" height="500" alt="Monero EasyNode Logo"><img src="picture/systemd.png" width="600" height="500" alt="Monero EasyNode Logo">
 
 ## <div align="center">⚡ Features</div>
 
