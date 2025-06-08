@@ -303,7 +303,7 @@ Because FAT doesn't handle files larger than 4 GB!  [👉Issue](https://github.c
 
 | Script | Jotti.org | MetaDefender | virscan |
 |--------|------------|--------------|--------------|
-| EasyNode_obfuscation | [![Scan EasyNode_linux with JOTTI.ORG](https://img.shields.io/badge/scan%20Easynode_obfuscation%20with-Jotti.org-brightgreen)](https://virusscan.jotti.org/en-US/filescanjob/6q4nz99gpv) | [![Scan EasyNode_linux with MetaDefender](https://img.shields.io/badge/scan%20Easynode_obfuscation%20with-MetaDefender-brightgreen)](https://metadefender.com/results/url/aHR0cHM6Ly9naXRodWIuY29tL2tlcmxhbm5YbXIvRWFzeW5vZGVfdHJhZmZpY19vYmZ1c2NhdGlvbi9yZWxlYXNlcy9kb3dubG9hZC92NC9lYXN5bm9kZV90cmFmZmljX29iZnVzY2F0aW9uLnNo) | [![Scan EasyNode_linux with VirScan](https://img.shields.io/badge/scan%20Easynode_obfuscation%20with-VirScan-brightgreen)](https://www.virscan.org/report/4e6f32edbcac140b4dee114b288c39e6607a6ad173333c6645bbe87569ad5bdf)
+| EasyNode_obfuscation | [![Scan EasyNode_linux with JOTTI.ORG](https://img.shields.io/badge/scan%20Easynode_obfuscation%20Jotti.org-brightgreen)](https://virusscan.jotti.org/en-US/filescanjob/6q4nz99gpv) | [![Scan EasyNode_linux with MetaDefender](https://img.shields.io/badge/scan%20Easynode_obfuscation%20MetaDefender-brightgreen)](https://metadefender.com/results/url/aHR0cHM6Ly9naXRodWIuY29tL2tlcmxhbm5YbXIvRWFzeW5vZGVfdHJhZmZpY19vYmZ1c2NhdGlvbi9yZWxlYXNlcy9kb3dubG9hZC92NC9lYXN5bm9kZV90cmFmZmljX29iZnVzY2F0aW9uLnNo) | [![Scan EasyNode_linux with VirScan](https://img.shields.io/badge/scan%20Easynode_obfuscation%20VirScan-brightgreen)](https://www.virscan.org/report/4e6f32edbcac140b4dee114b288c39e6607a6ad173333c6645bbe87569ad5bdf)
 
 
 </div>
