@@ -303,7 +303,7 @@ Because FAT doesn't handle files larger than 4 GB!  [👉Issue](https://github.c
 
 | Script | Jotti.org | MetaDefender | virscan |
 |--------|------------|--------------|--------------|
-| EasyNode_linux | [![Scan EasyNode_linux with JOTTI.ORG](https://img.shields.io/badge/scan%20Easynode_linux%20with-Jotti.org-brightgreen)](https://virusscan.jotti.org/en/filescanjob/gr95iybu3r) | [![Scan EasyNode_linux with MetaDefender](https://img.shields.io/badge/scan%20Easynode_linux%20with-MetaDefender-brightgreen)](https://metadefender.com/results/url/aHR0cHM6Ly9naXRodWIuY29tL2tlcmxhbm5YbXIvRWFzeU1vbmVyb2QvcmVsZWFzZXMvZG93bmxvYWQvdjMvZWFzeW5vZGVfbGludXguc2g=) | [![Scan EasyNode_linux with VirScan](https://img.shields.io/badge/scan%20Easynode_linux%20with-VirScan-brightgreen)](https://www.virscan.org/report/544adbfaa7cd148d13f87cbe3bccd7e3be1692bc21b5182555d1285e97b22336)
+| EasyNode_linux | [![Scan EasyNode_linux with JOTTI.ORG](https://img.shields.io/badge/scan%20Easynode_linux%20with-Jotti.org-brightgreen)](https://virusscan.jotti.org/en-US/filescanjob/6q4nz99gpv) | [![Scan EasyNode_linux with MetaDefender](https://img.shields.io/badge/scan%20Easynode_linux%20with-MetaDefender-brightgreen)](https://metadefender.com/results/url/aHR0cHM6Ly9naXRodWIuY29tL2tlcmxhbm5YbXIvRWFzeW5vZGVfdHJhZmZpY19vYmZ1c2NhdGlvbi9yZWxlYXNlcy9kb3dubG9hZC92NC9lYXN5bm9kZV90cmFmZmljX29iZnVzY2F0aW9uLnNo) | [![Scan EasyNode_linux with VirScan](https://img.shields.io/badge/scan%20Easynode_linux%20with-VirScan-brightgreen)](https://www.virscan.org/report/4e6f32edbcac140b4dee114b288c39e6607a6ad173333c6645bbe87569ad5bdf)
 
 
 </div>
