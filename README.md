@@ -125,7 +125,7 @@ This script is designed **for dedicated Monero node PCs** with Monero_Gui and co
 
 | Version | Links |
 |---------|------|
-| 🐧 Linux | [![Linux](https://img.shields.io/badge/Download-EasyNode_obfuscation-orange?style=for-the-badge)](https://github.com/kerlannXmr/Easynode-obfuscation/releases/download/v4/easynode_traffic_obfuscation.sh) |
+| 🐧 Linux | [![Linux](https://img.shields.io/badge/Download-EasyNode_obfuscation-orange?style=for-the-badge)](https://github.com/kerlannXmr/Easynode_traffic_obfuscation/releases/download/v4/easynode_traffic_obfuscation.sh) |
 
 </div>
 
@@ -145,13 +145,13 @@ This script is designed **for dedicated Monero node PCs** with Monero_Gui and co
 - ⚡Beginner users: copy&paste in new terminal
 
 ```bash
-wget https://github.com/kerlannXmr/Easynode-obfuscation/releases/download/v4/easynode_traffic_obfuscation.sh -O easynode_traffic_obfuscation.sh && chmod +x easynode_traffic_obfuscation.sh && sudo ./easynode_traffic_obfuscation.sh
+wget https://github.com/kerlannXmr/Easynode_traffic_obfuscation/releases/download/v4/easynode_traffic_obfuscation.sh -O easynode_traffic_obfuscation.sh && chmod +x easynode_traffic_obfuscation.sh && sudo ./easynode_traffic_obfuscation.sh
 ```
 
 - Normal users: copy&paste in new terminal
 
 ```bash
-sudo wget -P ~ https://github.com/kerlannXmr/Easynode-obfuscation/releases/download/v4/easynode_traffic_obfuscation.sh
+sudo wget -P ~ https://github.com/kerlannXmr/Easynode_traffic_obfuscation/releases/download/v4/easynode_traffic_obfuscation.sh
 ```
 (script goes in folder) " /home/$user "
 
