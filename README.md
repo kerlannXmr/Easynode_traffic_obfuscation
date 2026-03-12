@@ -29,7 +29,7 @@
 
 **EasyNode TRAFFIC OBFUSCATION** simplifies the installation of a **'MONERO node'** with advanced **traffic obfuscation** capabilities, allowing you to configure your blockchain in just a few clicks. 
 
-**-Inclued 0.18.4.5 Monero CLI and officiel Hash verification** (2026-01-17)
+**-Inclued 0.18.4.6 Monero CLI and officiel Hash verification** (2026-03-12)
 
  A complete setup in less than 10 minutes!
 
