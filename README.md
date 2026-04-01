@@ -127,7 +127,8 @@ This script is designed **for dedicated Monero node PCs** with Monero_Gui and co
 
 | Version | Links |
 |---------|------|
-| 🐧 Linux | [![Linux](https://img.shields.io/badge/Download-EasyNode_obfuscation-orange?style=for-the-badge)](https://github.com/kerlannXmr/Easynode_traffic_obfuscation/releases/download/v5/easynode_traffic_obfuscation.sh) |
+| 🐧 Linux | [![Linux](https://img.shields.io/badge/Download-EasyNode_obfuscation-orange?style=for-the-badge)](https://github.com/kerlannXmr/Easynode_traffic_obfuscation/releases/download/v6/easynode_traffic_obfuscation.sh) |
+
 
 </div>
 
